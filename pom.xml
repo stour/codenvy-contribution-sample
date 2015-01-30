@@ -8,6 +8,7 @@
     <name>hello-app</name>
     <url>http://maven.apache.org</url>
     <dependencies>
+      <!-- SERLI -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
