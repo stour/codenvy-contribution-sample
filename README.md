@@ -6,6 +6,7 @@
 [![Review](http://rawgit.com/sunix/90938b043d282fcd728c/raw/9031bf6714c402e9f30626aa5f51560ed578cbff/review.svg)](http://a4.codenvy-dev.com/f?id=4m27r6nxed7bkhby)
 
 
+# Codenvy Contribution Sample
 
 
 A simple Hello World JAR. This project is a sandbox project for testing the contribution workflow plugin for Codenvy Eclipse Che: https://github.com/codenvy/plugin-contribution
